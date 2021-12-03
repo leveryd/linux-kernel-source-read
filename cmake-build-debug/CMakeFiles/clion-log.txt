@@ -1,0 +1,4 @@
+/usr/local/Cellar/cmake/3.17.2/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/dongguangli/github/linux
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dongguangli/github/linux/cmake-build-debug
